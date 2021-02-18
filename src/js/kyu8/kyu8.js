@@ -1,2 +1,3 @@
 // import './welcome';
-import './noZeros';
+// import './noZeros';
+import './calculateTip';
