@@ -11,4 +11,7 @@
 // import './contamination'; --done
 // import './wilsonPrimes';-not complete //! must complete
 // import './charCode';
-import './howMuchILoveYou';
+// import './howMuchILoveYou'; --done
+//import './regularBall'; --done
+// import './playingWithCubes'; --done
+// import './stringTemplates'; --done
