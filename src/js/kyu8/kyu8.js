@@ -15,3 +15,6 @@
 //import './regularBall'; --done
 // import './playingWithCubes'; --done
 // import './stringTemplates'; --done
+// import './checkSameCase'; --done
+// import './isTheDateToday'; --done
+import './sumOfMultiples';
