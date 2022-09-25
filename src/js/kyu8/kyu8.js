@@ -17,4 +17,6 @@
 // import './stringTemplates'; --done
 // import './checkSameCase'; --done
 // import './isTheDateToday'; --done
-import './sumOfMultiples';
+// import './sumOfMultiples'; --done
+// import './isNan'; --done
+// import './headsAndLegs';--done
