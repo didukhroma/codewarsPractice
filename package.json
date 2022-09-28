@@ -8,7 +8,7 @@
     "build": "webpack --env.mode production --config ./webpack/config.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "commit": " git commit -m"
+    "commit": " git commit -m U+00022testU+00022"
   },
   "repository": {
     "type": "git",
