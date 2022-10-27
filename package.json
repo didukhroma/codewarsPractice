@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "fcommit": " git commit -m `conditionalStatementSwitch-start`",
-    "dcommit": " git commit -m `conditionalStatementSwitch-done`",
+    "dcommit": " git commit -m `duckDuckGoose-done`",
     "push": "git push origin main"
   },
   "repository": {

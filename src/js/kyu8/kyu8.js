@@ -20,4 +20,5 @@
 // import './sumOfMultiples'; --done
 // import './isNan'; --done
 // import './headsAndLegs';--done
-import './conditionalStatementSwitch';
+// import './conditionalStatementSwitch';
+import './duckDuckGoose';
