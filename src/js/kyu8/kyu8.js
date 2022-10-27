@@ -10,7 +10,7 @@
 // import './didSheSayHello'; --done
 // import './contamination'; --done
 // import './wilsonPrimes';-not complete //! must complete
-// import './charCode';
+// import './charCode'; //! must complete
 // import './howMuchILoveYou'; --done
 //import './regularBall'; --done
 // import './playingWithCubes'; --done
@@ -20,5 +20,6 @@
 // import './sumOfMultiples'; --done
 // import './isNan'; --done
 // import './headsAndLegs';--done
-// import './conditionalStatementSwitch';
-import './duckDuckGoose';
+// import './conditionalStatementSwitch'; --done
+// import './duckDuckGoose'; --done
+import './removeExclamationMarks';
