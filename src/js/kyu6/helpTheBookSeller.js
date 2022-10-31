@@ -26,9 +26,9 @@ function stockList(listOfArt, listOfCat) {
   return result;
 }
 
-// console.log('(A : 0) - (B : 1290) - (C : 515) - (D : 600)');
-// console.log(stockList(b, c));
-// console.log('---------------------');
+console.log('(A : 0) - (B : 1290) - (C : 515) - (D : 600)');
+console.log(stockList(b, c));
+console.log('---------------------');
 
 const b1 = ['ABAR 200', 'CDXE 500', 'BKWR 250', 'BTSQ 890', 'DRTY 600'];
 const c1 = ['A', 'B'];
