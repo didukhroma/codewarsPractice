@@ -1,4 +1,4 @@
 // import './elevatorDistance';
 // import './decrypThisSchoolCipher';//todo: must be complete !!!
 // import './twoToOneString';
-import './debugSumOfDigits';
+// import './debugSumOfDigits';--done
