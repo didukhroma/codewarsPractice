@@ -1,4 +1,4 @@
-console.log('kyu8 removeExclamationMarks.js');
+console.log('kyu8-removeExclamationMarks.js');
 
 const doTest = string => string.replace(/[!]/g, '') + '!';
 
