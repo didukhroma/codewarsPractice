@@ -12,7 +12,7 @@
 // import './wilsonPrimes';-not complete //! must complete
 // import './charCode'; //! must complete
 // import './howMuchILoveYou'; --done
-//import './regularBall'; --done
+// import './regularBall'; --done
 // import './playingWithCubes'; --done
 // import './stringTemplates'; --done
 // import './checkSameCase'; --done
@@ -23,4 +23,5 @@
 // import './conditionalStatementSwitch'; --done
 // import './duckDuckGoose'; --done
 // import './removeExclamationMarks'; --done
-import './removeExclamationMarks2';
+// import './removeExclamationMarks2'; --done
+import './interpreters';
