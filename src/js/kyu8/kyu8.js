@@ -24,5 +24,6 @@
 // import './duckDuckGoose'; --done
 // import './removeExclamationMarks'; --done
 // import './removeExclamationMarks2'; --done
-// import './interpreters'; 
-import './countCubes' ;
+// import './interpreters'; --done
+// import './countCubes' ; --done
+import './localizeBarycenterOfTriangle';
