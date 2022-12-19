@@ -9,7 +9,7 @@
 // import './testTest'; --done
 // import './didSheSayHello'; --done
 // import './contamination'; --done
-import './wilsonPrimes'; //! must complete
+// import './wilsonPrimes'; --done
 // import './charCode'; //! must complete
 // import './howMuchILoveYou'; --done
 // import './regularBall'; --done
@@ -27,3 +27,4 @@ import './wilsonPrimes'; //! must complete
 // import './interpreters'; --done
 // import './countCubes' ; --done
 // import './localizeBarycenterOfTriangle'; --done
+import './drawStairs';
