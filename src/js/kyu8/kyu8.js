@@ -1,3 +1,5 @@
+console.log('kyu-8');
+
 // import './welcome'; --done
 // import './noZeros'; --done
 // import './calculateTip'; --done
@@ -27,4 +29,4 @@
 // import './interpreters'; --done
 // import './countCubes' ; --done
 // import './localizeBarycenterOfTriangle'; --done
-import './drawStairs';
+// import './drawStairs'; --done
