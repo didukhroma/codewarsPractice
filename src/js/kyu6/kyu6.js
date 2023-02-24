@@ -4,4 +4,5 @@ console.log('kyu-6');
 // import './highestScoringWord'; --done
 // import './replaceWithAlphabetPosition'; --done
 // import './helpTheBookSeller' --done
-import './similarArrays';
+// import './similarArrays'; --done
+import './pairOfGloves';

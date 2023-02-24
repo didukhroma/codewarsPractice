@@ -8,8 +8,8 @@
     "build": "webpack --env.mode production --config ./webpack/config.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "scommit": " git status && git add . && git commit -m `kyu7-debugSumOfDigits-start`",
-    "dcommit": " git status && git add . && git commit -m `kyu8-interpreters-done`",
+    "scommit": " git status  && git commit -a -m `kyu-6-pairOfGloves`",
+    "dcommit": " git status  && git commit -a -m `kyu-6-pairOfGloves`",
     "push": "git push origin main"
   },
   "repository": {
