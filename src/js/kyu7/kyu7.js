@@ -3,4 +3,5 @@ console.log('kyu-7');
 // import './decrypThisSchoolCipher';//todo: must be complete !!!
 // import './twoToOneString';
 // import './debugSumOfDigits';--done
-import './indexedCapitalization';
+// import './indexedCapitalization'; --done
+import './fixStringCase';
