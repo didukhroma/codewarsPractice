@@ -5,4 +5,4 @@ console.log('kyu-6');
 // import './replaceWithAlphabetPosition'; --done
 // import './helpTheBookSeller' --done
 // import './similarArrays'; --done
-import './pairOfGloves';
+// import './pairOfGloves'; --done
