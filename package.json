@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "scommit": " git status  && git commit -a -m `kyu-6-pairOfGloves`",
-    "dcommit": " git status  && git commit -a -m `kyu-7-removeConsecutiveWords`",
+    "dcommit": " git status  && git commit -a -m `kyu-7-geometricSequenceElements`",
     "push": "git push origin main"
   },
   "repository": {

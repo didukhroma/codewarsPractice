@@ -5,4 +5,5 @@ console.log('kyu-7');
 // import './debugSumOfDigits';--done
 // import './indexedCapitalization'; --done
 // import './fixStringCase'; --done
-import './removeConsecutiveWords';
+// import './removeConsecutiveWords'; --done
+import './geometricSequenceElements';
