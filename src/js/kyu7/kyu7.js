@@ -4,4 +4,5 @@ console.log('kyu-7');
 // import './twoToOneString';
 // import './debugSumOfDigits';--done
 // import './indexedCapitalization'; --done
-import './fixStringCase';
+// import './fixStringCase'; --done
+import './removeConsecutiveWords';
