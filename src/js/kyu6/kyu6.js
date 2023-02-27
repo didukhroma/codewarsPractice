@@ -6,3 +6,4 @@ console.log('kyu-6');
 // import './helpTheBookSeller' --done
 // import './similarArrays'; --done
 // import './pairOfGloves'; --done
+import './whatCentury';

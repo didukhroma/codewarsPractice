@@ -6,4 +6,4 @@ console.log('kyu-7');
 // import './indexedCapitalization'; --done
 // import './fixStringCase'; --done
 // import './removeConsecutiveWords'; --done
-import './geometricSequenceElements';
+// import './geometricSequenceElements'; --done
