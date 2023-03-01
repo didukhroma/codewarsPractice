@@ -8,7 +8,7 @@
     "build": "webpack --env.mode production --config ./webpack/config.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "scommit": " git status  && git commit -a -m `kyu-6-pairOfGloves`",
+    "scommit": " git status  && git commit -a -m `kyu-7-drawMeAChessboard`",
     "dcommit": " git status  && git commit -a -m `kyu-8-removeExclamationMarks6`",
     "push": "git push origin main"
   },

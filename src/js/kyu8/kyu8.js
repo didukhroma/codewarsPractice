@@ -30,4 +30,4 @@ console.log('kyu-8');
 // import './countCubes' ; --done
 // import './localizeBarycenterOfTriangle'; --done
 // import './drawStairs'; --done
-import './removeExclamationMarks6';
+// import './removeExclamationMarks6'; --done
