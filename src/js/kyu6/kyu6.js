@@ -8,3 +8,4 @@ console.log('kyu-6');
 // import './pairOfGloves'; --done
 // import './whatCentury';--done
 // import './narcissistic'; --done
+// import './camelCaseMethod'; --done

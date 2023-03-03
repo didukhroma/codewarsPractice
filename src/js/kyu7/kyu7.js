@@ -7,4 +7,4 @@ console.log('kyu-7');
 // import './fixStringCase'; --done
 // import './removeConsecutiveWords'; --done
 // import './geometricSequenceElements'; --done
-import './drawMeAChessboard';
+// import './drawMeAChessboard'; --done
