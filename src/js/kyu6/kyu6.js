@@ -9,3 +9,4 @@ console.log('kyu-6');
 // import './whatCentury';--done
 // import './narcissistic'; --done
 // import './camelCaseMethod'; --done
+// import './tribonacciSequence'; --done
