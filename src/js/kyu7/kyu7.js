@@ -8,3 +8,4 @@ console.log('kyu-7');
 // import './removeConsecutiveWords'; --done
 // import './geometricSequenceElements'; --done
 // import './drawMeAChessboard'; --done
+// import './checkDigit';

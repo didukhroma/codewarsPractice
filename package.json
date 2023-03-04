@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "scommit": " git status  && git commit -a -m `kyu-7-drawMeAChessboard`",
-    "dcommit": " git status  && git commit -a -m `kyu-6-tribonacciSequence`",
+    "dcommit": " git status  && git commit -a -m `kyu-7-checkDigit`",
     "push": "git push origin main"
   },
   "repository": {
