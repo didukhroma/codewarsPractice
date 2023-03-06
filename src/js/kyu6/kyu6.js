@@ -10,3 +10,4 @@ console.log('kyu-6');
 // import './narcissistic'; --done
 // import './camelCaseMethod'; --done
 // import './tribonacciSequence'; --done
+// import './kebabize';--done
