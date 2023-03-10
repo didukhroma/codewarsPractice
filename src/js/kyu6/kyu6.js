@@ -13,3 +13,4 @@ console.log('kyu-6');
 // import './kebabize';--done
 // import './keywordCipher'; --done
 // import './decipherThis'; --done
+import './convertStringToCamelCase';
