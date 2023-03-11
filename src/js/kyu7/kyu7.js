@@ -11,4 +11,4 @@ console.log('kyu-7');
 // import './checkDigit';//* --done
 // import './keepTheOrder'; //* --done
 // import './heronFormula'; //* --done
-import './productArray';
+// import './productArray'; //*--done

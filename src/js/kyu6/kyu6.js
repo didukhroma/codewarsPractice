@@ -14,3 +14,4 @@ console.log('kyu-6');
 // import './keywordCipher'; //*--done
 // import './decipherThis'; //*--done
 // import './convertStringToCamelCase'; //*--done
+// import './longestPalindrome'; //!must complete check only test not attempt

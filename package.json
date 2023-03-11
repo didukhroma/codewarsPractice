@@ -8,9 +8,10 @@
     "build": "webpack --env.mode production --config ./webpack/config.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "scommit": " git status  && git commit -a -m `kyu-7-drawMeAChessboard`",
-    "dcommit": " git status  && git commit -a -m `kyu-7-productArray`",
-    "push": "git push origin main"
+    "scommit": " git status  && git commit -a -m `kyu-6-longestPalindrome`",
+    "dcommit": " git status  && git commit -a -m `kyu-6-longestPalindrome`",
+    "push": "git push origin main",
+    "pull": "git pull origin main"
   },
   "repository": {
     "type": "git",
