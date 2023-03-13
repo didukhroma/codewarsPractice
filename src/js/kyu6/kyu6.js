@@ -15,3 +15,4 @@ console.log('kyu-6');
 // import './decipherThis'; //*--done
 // import './convertStringToCamelCase'; //*--done
 // import './longestPalindrome'; //!must complete check only test not attempt
+// import './playingWithDigits'; //*--done
