@@ -13,5 +13,4 @@ console.log('kyu-7');
 // import './heronFormula'; //* --done
 // import './productArray'; //*--done
 // import './dotsOnDominoBones'; //*--done
-// import './changingLetters';
-// import './mysteriosSingularityNumber'; //todo: must be complete!!!
+import './changingLetters';

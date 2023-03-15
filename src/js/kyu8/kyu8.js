@@ -32,4 +32,3 @@ console.log('kyu-8');
 // import './drawStairs'; //* --done
 // import './removeExclamationMarks6'; //* --done
 // import './whatsNext'; //! must comlete
-import './whoIsGoingToPayForTheWall';
