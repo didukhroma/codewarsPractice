@@ -15,4 +15,4 @@ console.log('kyu-7');
 // import './dotsOnDominoBones'; //*--done
 // import './changingLetters';//*--done
 // import './validParentheses';//*--done
-import './decimalTimeConversion';
+// import './decimalTimeConversion';//*--done
