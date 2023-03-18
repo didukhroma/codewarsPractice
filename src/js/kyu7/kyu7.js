@@ -16,3 +16,4 @@ console.log('kyu-7');
 // import './changingLetters';//*--done
 // import './validParentheses';//*--done
 // import './decimalTimeConversion';//*--done
+// import './sumOfSequence';//*--done
