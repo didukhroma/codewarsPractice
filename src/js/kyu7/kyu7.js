@@ -18,3 +18,4 @@ console.log('kyu-7');
 // import './decimalTimeConversion';//*--done
 // import './sumOfSequence';//*--done
 // import './doucleValueEveryNextCall';//*--done
+// import './palidromHereAndThere';//*--done
