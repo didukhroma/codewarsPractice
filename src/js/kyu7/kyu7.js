@@ -19,3 +19,4 @@ console.log('kyu-7');
 // import './sumOfSequence';//*--done
 // import './doucleValueEveryNextCall';//*--done
 // import './palidromHereAndThere';//*--done
+// import './catsAndShelves';//*--done
