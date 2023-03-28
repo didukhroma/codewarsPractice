@@ -20,3 +20,4 @@ console.log('kyu-7');
 // import './doucleValueEveryNextCall';//*--done
 // import './palidromHereAndThere';//*--done
 // import './catsAndShelves';//*--done
+// import './sumsOfConsecutiveIntegers';//*--done
