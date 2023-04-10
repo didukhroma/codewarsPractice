@@ -21,3 +21,4 @@ console.log('kyu-7');
 // import './palidromHereAndThere';//*--done
 // import './catsAndShelves';//*--done
 // import './sumsOfConsecutiveIntegers';//*--done
+// import './powerOfTwo'; //*--done
