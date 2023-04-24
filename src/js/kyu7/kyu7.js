@@ -22,4 +22,5 @@ console.log('kyu-7');
 // import './catsAndShelves';//*--done
 // import './sumsOfConsecutiveIntegers';//*--done
 // import './powerOfTwo'; //*--done
-import './removeWordWithOneExclamationMark';
+// import './removeWordWithOneExclamationMark';//*--done
+// import './helloWorldWithoutStrings'//*--done
