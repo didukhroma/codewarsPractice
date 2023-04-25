@@ -23,4 +23,5 @@ console.log('kyu-7');
 // import './sumsOfConsecutiveIntegers';//*--done
 // import './powerOfTwo'; //*--done
 // import './removeWordWithOneExclamationMark';//*--done
-// import './helloWorldWithoutStrings'//*--done
+// import './helloWorldWithoutStrings'; //*--done
+// import './sumFactorial';//*--done
