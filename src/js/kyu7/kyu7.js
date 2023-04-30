@@ -25,3 +25,4 @@ console.log('kyu-7');
 // import './removeWordWithOneExclamationMark';//*--done
 // import './helloWorldWithoutStrings'; //*--done
 // import './sumFactorial';//*--done
+// import './findSecondIndexString';//*--done
