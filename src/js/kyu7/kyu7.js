@@ -27,3 +27,4 @@ console.log('kyu-7');
 // import './sumFactorial';//*--done
 // import './findSecondIndexString';//*--done
 // import './lastDigitsOfNumber';//*--done
+// import './stringEndsWith';//*--done
