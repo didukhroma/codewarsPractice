@@ -28,3 +28,4 @@ console.log('kyu-7');
 // import './findSecondIndexString';//*--done
 // import './lastDigitsOfNumber';//*--done
 // import './stringEndsWith';//*--done
+// import './theOfficeI';//*--done
