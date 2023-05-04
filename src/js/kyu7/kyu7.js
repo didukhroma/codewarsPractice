@@ -29,3 +29,5 @@ console.log('kyu-7');
 // import './lastDigitsOfNumber';//*--done
 // import './stringEndsWith';//*--done
 // import './theOfficeI';//*--done
+// import './findYourCaterer';//!-don't complete this kata
+// import './timeForMilkAndCookies'//*--done
