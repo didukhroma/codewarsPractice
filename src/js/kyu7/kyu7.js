@@ -31,4 +31,4 @@ console.log('kyu-7');
 // import './theOfficeI';//*--done
 // import './findYourCaterer';//!-don't complete this kata
 // import './timeForMilkAndCookies'//*--done
-import './fibonacciFizzBuzz';
+// import './fibonacciFizzBuzz';//*--done

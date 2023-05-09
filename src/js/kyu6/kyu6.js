@@ -17,3 +17,4 @@ console.log('kyu-6');
 // import './longestPalindrome'; //!must complete check only test not attempt
 // import './playingWithDigits'; //*--done
 // import './findTheUniqueNumber';//*--done
+// import './areTheSame'; //*--done
