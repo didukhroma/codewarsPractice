@@ -19,3 +19,4 @@ console.log('kyu-6');
 // import './findTheUniqueNumber';//*--done
 // import './areTheSame'; //*--done
 // import './multiplicationTable';//*--done
+// import './sumsOfParts';//*--done
