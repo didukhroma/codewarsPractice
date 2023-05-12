@@ -12,7 +12,7 @@
     "dcommit": "git status  && git add . && git commit  -m `kyu-6-sumsOfParts`",
     "push": "git push origin main",
     "pull": "git pull origin main",
-    "push2": "git status  && git add . && git commit  -m `kyu-6-sumsOfParts` && git push origin main"
+    "push2": "git status  && git add . && git commit  -m `kyu-8-determineSexOnGenes` && git push origin main"
   },
   "repository": {
     "type": "git",

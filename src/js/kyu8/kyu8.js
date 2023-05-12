@@ -33,3 +33,4 @@ console.log('kyu-8');
 // import './removeExclamationMarks6'; //* --done
 // import './whatsNext'; //! must comlete
 // import './removeTheTime'//*--done
+// import './determineSexOnGenes'//*--done
