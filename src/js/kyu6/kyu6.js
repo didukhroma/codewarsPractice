@@ -20,3 +20,4 @@ console.log('kyu-6');
 // import './areTheSame'; //*--done
 // import './multiplicationTable';//*--done
 // import './sumsOfParts';//*--done
+// import './tripleTrouble';//!-must complete

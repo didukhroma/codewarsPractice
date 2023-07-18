@@ -32,3 +32,4 @@ console.log('kyu-7');
 // import './findYourCaterer';//!-don't complete this kata
 // import './timeForMilkAndCookies'//*--done
 // import './fibonacciFizzBuzz';//*--done
+import './tripleShiftianNumbers';
